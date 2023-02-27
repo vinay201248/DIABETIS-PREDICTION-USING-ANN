@@ -12,6 +12,8 @@ Diabetes is one of the most common diseases worldwide where a cure is not found 
 ## Screenshots
 
 ![App Screenshot]("C:\Users\vinay vk\Downloads\DIABETIS PIC.jpg")
+![image](https://user-images.githubusercontent.com/113492990/221561980-6c8f42b9-2f49-4354-88f5-0f87df23a878.png)
+
 
 TENSORFLOW:
 
